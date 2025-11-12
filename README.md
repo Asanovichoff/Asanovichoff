@@ -14,7 +14,7 @@ I specialize in building full-stack applications, machine learning models, and A
 
 ## 🚀 Featured Projects
 
-### 🌍 [DAKANTOURS](https://github.com/Asanovichoff/DAKANTOURS)  
+### 🌍 [DAKANTOURS](https://github.com/Asanovichoff/dacantours.git))  
 A modern full-stack travel booking platform showcasing tours across the U.S. and upcoming Kyrgyzstan adventures.  
 **Highlights:** Responsive dark theme UI, RESTful Flask backend, SQLite database with SQLAlchemy, automated email notifications, and customizable adventure planning.  
 **Tech Stack:** React.js, Flask, Tailwind CSS, SQLite, SQLAlchemy, Python, JavaScript  
