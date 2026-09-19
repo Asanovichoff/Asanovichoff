@@ -8,15 +8,8 @@ Lately most of my time goes into three things: event-driven backends (Kafka, Red
 
 Software Engineer Intern, Akyldoo AI · Seattle, WA · Apr 2026 – Aug 2026
 
-Found the five slowest SQL queries with pg_stat_statements and optimized three (index tuning, no SELECT *, keyset instead of OFFSET pagination), cutting primary database CPU by ~20%.
-Built semantic code search and contextual Q&A across repositories, so developers locate relevant files 3× faster.
-Streamed OpenAI responses over Server-Sent Events, taking perceived latency from ~20 seconds to under 1 second.
-
 Software Engineer Intern, Ak-Sai · Seattle, WA · May 2025 – Sep 2025
 
-Built proximity-aware listing search with PostGIS and GiST KNN indexing.
-Eliminated double-booking race conditions with PostgreSQL pessimistic row locking and a date-overlap check.
-Drove the migration from a monolith to Docker-containerized microservices, increasing deployment velocity by 40%.
 🛠 Tech
 
 Languages: Java, Python, TypeScript, JavaScript, SQL, Dart Backend: Spring Boot, FastAPI, NestJS, Flask, REST APIs, Server-Sent Events Data & Messaging: PostgreSQL (PostGIS), Redis, Apache Kafka, MySQL, SQLite Cloud & Infrastructure: AWS, GCP, Docker, Kubernetes, Terraform, GitHub Actions, Prometheus, Grafana, Cloudflare Workers Frontend & Mobile: Next.js, React, React Native (Expo), Flutter, Tailwind CSS AI Tooling: MCP servers, Claude Agent Skills, semantic search, LLM streaming Systems: Distributed systems, event-driven architecture, microservices, concurrency
