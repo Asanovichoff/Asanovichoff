@@ -1,6 +1,6 @@
 # Hi, I'm Akan 👋
 
-Full stack engineer in Seattle with 5+ years of experience building fast, reliable backend systems and the web apps that sit on top of them. Currently at **Akyldoo AI**, previously **Yandex**.
+Full stack engineer in Seattle with 3+ years of experience building fast, reliable backend systems and the web apps that sit on top of them. Currently at **Akyldoo AI**, previously **Yandex**.
 
 ### What I work on
 - **Distributed systems:** event-driven pipelines with Kafka, idempotent consumers, dead-letter queues
